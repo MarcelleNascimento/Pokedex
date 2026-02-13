@@ -113,6 +113,7 @@
     position: relative;
     overflow: hidden;
     box-shadow: 1px 1px 10px 4px rgba(0, 0, 0, 0.247);
+    cursor: pointer;
 }
 
 .pokemon::before {
@@ -203,6 +204,7 @@
     color: white;
     border-radius: 1rem;
     border: none;
+    cursor: pointer;
 }
 
 .card {
